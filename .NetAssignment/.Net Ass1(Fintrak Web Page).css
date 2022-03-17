@@ -1,0 +1,264 @@
+body{
+    margin: 0px; 
+    padding: 0px;
+}
+
+#Section1{
+    background: url("./Images/Building-Image.jpg");
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#NavBar{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    width: 100%;
+   height: 80px;
+   border: 1px solid red;
+   background-color: gray;
+   position: fixed;
+}
+
+.img{
+    width:20px;
+    height:20px;
+    margin:5px;
+}
+
+#NavBar ul{
+    display: flex;
+    flex-direction: row; 
+}
+#NavBar ul li{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin:5px;
+    color: gray;
+}
+#NavBar ul li a{
+    text-decoration: none;
+    color: white;
+}
+#Section1{
+    margin-top: 0px;
+    text-align: center;
+}
+.sec1{
+    
+    margin: auto;
+    padding-top: 200px;
+    width: 85vw;
+    height: 400px;
+    
+}
+.cont{
+    background-color: white;
+}
+.sec1 h1, h4{
+    font-size: 40px;
+    color: white;
+}
+
+#Container{
+    width: 100vw;
+    border: 1px solid red;
+}
+#Section2{
+    background-color: gray;
+    margin-top: 0px;
+    height: 1090px;
+    border: 1px solid blue;
+}
+.sec2 p{
+    font-size: 25px;
+    color: white;
+}
+.sec2 h1{
+    font-size: 35px;
+    color: white;
+}
+.data{
+    float: right;
+    width: 400px;
+    height: 400px;
+    margin-right: 80px;
+    margin-bottom: 80px;
+}
+.learn{
+    background-color: red;
+    font-size: 25px;
+    color: white;
+}
+#Section3{
+    background: url(./Images/Building-Image.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    margin-top: 0px;
+    border: solid red;
+}
+.sec3{
+    text-align: center;
+    text-decoration-color: white;
+}
+#Section4{
+    width: 100vw;
+   height: 400px;
+   margin-top: 0px;
+   border: 1px solid red;
+   background-color: white;
+}
+#Section4 ul{
+    text-align: center;
+}
+.img1{
+    width:20px;
+    height:20px;
+    margin:5px;
+}
+.flex1{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+}
+.img2{
+    width:20px;
+    height:20px;
+    margin:5px;
+}
+.flex2{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+}
+.img3{
+    width:20px;
+    height:20px;
+    margin:5px;
+}
+.flex3{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+}
+.flex1 ul{
+    margin: 10px;
+}
+.flex2 ul{
+    margin: 10px;
+}
+.flex3 ul{
+    margin: 10px;
+}
+#Section5{
+    width: 100vw;
+   height: 400px;
+   margin-top: 0px;
+   border: 1px solid red;
+   background-color:dimgrey;
+}
+.sec5{
+    margin-left: 40px;
+}
+h1{
+    text-align: center;
+}
+#Section6{
+    width: 100vw;
+   height: 300px;
+   margin-top: 0px;
+   border: 1px solid red;
+   background-color: white;
+}
+h1{
+    text-align: center;
+}
+#Section7{
+    width: 100vw;
+   height: 300px;
+   margin-top: 0px;
+   border: 1px solid red;
+   background-color: grey;
+}
+#Section7 p{
+    text-align: center;
+    margin-top: 50px;
+}
+#Section8{
+    width: 100vw;
+   height: 300px;
+   margin-top: 0px;
+   border: 1px solid red;
+   background-color: white;
+}
+#Section8 h1{
+    text-align: center;
+    margin-top: 30px;
+}
+.sec8 ul{
+    text-align: center;
+}
+.sec8 ul{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+#Section9{
+    width: 100vw;
+   height: 600px;
+   margin-top: 0px;
+   border: 1px solid red;
+   background-color:dimgrey;
+}
+.h1{
+    text-align: center;
+}
+#SEC9{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.sec9-1{
+    width: 300px;
+   height: 300px;
+   margin-top: 10px;
+   background-color:white;
+}
+.sec9-1{
+    text-align: center;
+    margin-top: 5px;
+}
+.sec9-2{
+    width: 300px;
+   height: 300px;
+   margin-top: 10px;
+   background-color:white;
+}
+.sec9-2{
+    text-align: center;
+    margin-top: 5px;
+}
+.sec9-3{
+    width: 300px;
+   height: 250px;
+   margin-top: 10px;
+   background-color:white;
+}
+.sec9-3{
+    text-align: center;
+    margin-top: 5px;
+}
+.sec9-4{
+    text-align: center;
+}
+#sec-5{
+    text-align: center;
+    width:auto
+}
+#submit{
+    background-color: red;
+}
+
+

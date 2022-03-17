@@ -1,0 +1,17 @@
+h1{
+    color: rgb(0, 153, 255);
+    }
+    a{
+        text-decoration: none;
+    }
+    input{
+        width: 390px; height:60; border-radius: 815px; margin-bottom: 10px;
+    }
+    body{
+        background-color: rgba(128, 128, 128, 0.151);
+        display: flex; flex-direction: row;
+        vertical-align: middle;
+    }
+    #close{
+        float: right;
+    }
